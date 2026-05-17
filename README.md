@@ -329,7 +329,7 @@ We welcome community contributions:
 - ✅ **Enhanced UI** - Scrollable, responsive design
 - ✅ **Advanced Excel Export** - Customizable output options
 
-## 🛣️ ROADMAP
+## 🛣️ Roadmap
 
 | Feature | What You Get |
 |---|---|
@@ -697,7 +697,7 @@ python main.py
 - ✅ **Улучшенный UI** - Прокручиваемый, отзывчивый дизайн
 - ✅ **Продвинутый Excel экспорт** - Настраиваемые опции вывода
 
-## 🛣️ ДОРОЖНАЯ КАРТА
+## 🛣️ Дорожная карта
 
 | Фича | Что внутри |
 |---|---|
