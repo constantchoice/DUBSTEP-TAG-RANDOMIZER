@@ -329,12 +329,14 @@ We welcome community contributions:
 - ✅ **Enhanced UI** - Scrollable, responsive design
 - ✅ **Advanced Excel Export** - Customizable output options
 
-### Roadmap
+## 🛣️ ROADMAP
 
-- 🔄 CSV Import/Export
-- 📊 Usage Analytics Dashboard  
-- 🎨 Template System for niches
-- 🔄 Batch File Processing
+| Feature | What You Get |
+|---|---|
+| 📥 **CSV Import/Export** | Seamless connection to schedulers and CRMs with zero extra steps |
+| 📈 **Usage Analytics Dashboard** | See which tags are crushing it and which are collecting dust — all visual |
+| 🎭 **Template System for Niches** | Set up once per niche — switch between them in a couple of clicks |
+| 📦 **Batch File Processing** | Toss in a folder of projects — each one gets its own ready-made tag set |
 
 ## 📬 Contacts
 
@@ -695,12 +697,14 @@ python main.py
 - ✅ **Улучшенный UI** - Прокручиваемый, отзывчивый дизайн
 - ✅ **Продвинутый Excel экспорт** - Настраиваемые опции вывода
 
-### Дорожная карта
+## 🛣️ ДОРОЖНАЯ КАРТА
 
-- 🔄 Импорт/Экспорт CSV
-- 📊 Панель аналитики использования
-- 🎨 Система шаблонов для ниш
-- 🔄 Пакетная обработка файлов
+| Фича | Что внутри |
+|---|---|
+| 📥 **CSV Импорт/Экспорт** | Мгновенная стыковка с планировщиками и CRM без лишних телодвижений |
+| 📈 **Панель аналитики** | Какие теги летят в топ, а какие пылятся без дела — всё наглядно |
+| 🎭 **Система шаблонов** | Один раз настроил под нишу — потом переключаешься в пару кликов |
+| 📦 **Пакетная обработка** | Закидываешь папку с проектами — каждый получает свой готовый набор |
 
 ## 📬 Контакты
 
