@@ -91,7 +91,7 @@ If you are confused, see the section below ["Tag File Setup"](#EasyInstallationE
 
 ```bash
 # 1. Clone repository
-git clone https://github.com/GrinchFour/DUBSTEP-TAG-RANDOMIZER.git
+git clone https://github.com/constantchoice/DUBSTEP-TAG-RANDOMIZER.git
 cd tag-randomizer
 
 # 2. Install dependencies
@@ -345,9 +345,9 @@ the suggested links and stay if you are interested:
 
 | Platform | Link |
 |:-----------|:--------:|
-| Behance | [constantchoice](https://www.behance.net/GrinchFour) |
+| Behance | [constantchoice](https://www.behance.net/constantchoice) |
 | Instagram | [constantchoice](https://www.instagram.com/constantchoice) |
-| Put ⭐ | [DUBSTEP TAG RANDOMIZER](https://github.com/GrinchFour/DUBSTEP-TAG-RANDOMIZER) |
+| Put ⭐ | [DUBSTEP TAG RANDOMIZER](https://github.com/constantchoice/DUBSTEP-TAG-RANDOMIZER) |
 
 ---
 
@@ -459,7 +459,7 @@ the suggested links and stay if you are interested:
 
 ```bash
 # 1. Клонируйте репозиторий
-git clone https://github.com/GrinchFour/DUBSTEP-TAG-RANDOMIZER.git
+git clone https://github.com/constantchoice/DUBSTEP-TAG-RANDOMIZER.git
 cd tag-randomizer
 
 # 2. Установите зависимости
@@ -713,9 +713,9 @@ python main.py
 
 | Платформа | Ссылка |
 |:-----------|:-----------:|
-| Behance | [constantchoice](https://www.behance.net/GrinchFour) |
+| Behance | [constantchoice](https://www.behance.net/constantchoice) |
 | Instagram | [constantchoice](https://www.instagram.com/constantchoice) |
-| Поставить ⭐ | [DUBSTEP TAG RANDOMIZER](https://github.com/GrinchFour/DUBSTEP-TAG-RANDOMIZER) |
+| Поставить ⭐ | [DUBSTEP TAG RANDOMIZER](https://github.com/constantchoice/DUBSTEP-TAG-RANDOMIZER) |
 
 ---
 
